@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "924253078650",
+    "firebase_url": "https://radha-fd6b1.firebaseio.com",
+    "project_id": "radha-fd6b1",
+    "storage_bucket": "radha-fd6b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924253078650:android:c29ba4c3c47176e8",
+        "android_client_info": {
+          "package_name": "com.example.administrator.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924253078650-ab2fdf3s66lp21n60a4gsrak7ikkqssj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.myapplication",
+            "certificate_hash": "606b88b6a04f61cd91db64ef9a91086a3bda4cd5"
+          }
+        },
+        {
+          "client_id": "924253078650-f7e80fm4u1kca3rt04pkq4210rgeps39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7OHDWYmeAyMd6oQv4b1QKoln6kVTUJA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924253078650-f7e80fm4u1kca3rt04pkq4210rgeps39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
